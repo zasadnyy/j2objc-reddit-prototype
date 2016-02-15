@@ -16,7 +16,7 @@ I've built this prototype in the scope of the internal RnD project at [GetSocial
 1. Gradle installed
 2. J2ObjC v0.9.8.2.1 installed
 3. CocoaPods v0.39 installed 
-3. Mac OSX (to test iOS build)
+3. Mac OSX (in theory cross compilation should work on Windows, but I didn't test)
 
 
 ### How to build
