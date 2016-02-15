@@ -33,7 +33,6 @@ j2objc.home=~/j2objcDist/j2objc-0.9.8.2.1
  
 ```
 >gradle wrapper
-
 ```
 
  4) Build and cross compile `shared` module
