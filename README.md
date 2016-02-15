@@ -22,6 +22,7 @@ This prototype was built in the scope of the internal RnD project at [GetSocial]
 ### How to build
 
  0) `cd` to project root folder
+ 
  1) Create `local.properties` with J2ObjC and Android SDK location, so it looks like
 
 ```
@@ -42,6 +43,7 @@ j2objc.home=~/j2objcDist/j2objc-0.9.8.2.1
 ```
 
  5) Import root folder as a Gradle project into Android Studio to run Android demo
+ 
  6) Open generated Xcode workspace from `ios/` folder to run iOS demo **(workspace not project!)**
 
 
