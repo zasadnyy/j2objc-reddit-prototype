@@ -1,0 +1,2 @@
+rootProject.name = 'reddit-gs'
+include ':android-client', ':shared', ':android-library'

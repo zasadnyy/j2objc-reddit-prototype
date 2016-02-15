@@ -1,0 +1,69 @@
+plugins {
+    id 'java'
+    id 'com.github.j2objccontrib.j2objcgradle' version '0.6.0-alpha'
+}
+
+group 'com.zasadnyy'
+version '0.1'
+
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
+
+dependencies {
+    // Json
+    compile 'com.google.code.gson:gson:2.5'
+
+    // Code contracts
+    compile 'org.jetbrains:annotations-java5:15.0'
+
+    // Testing
+    testCompile 'junit:junit:4.11'
+    testCompile 'org.mockito:mockito-core:1.9.5'
+}
+
+// Update resources output path to fix the issue
+// https://youtrack.jetbrains.com/issue/IDEA-128273
+sourceSets {
+    test {
+        output.resourcesDir = output.classesDir
+    }
+}
+
+j2objcConfig {
+    // Sets up libraries you depend on
+    autoConfigureDeps true
+
+    // Omit these two lines if you don't configure your Xcode project with CocoaPods
+    xcodeProjectDir '../ios'
+    xcodeTargetsIos 'reddit-gs', 'reddit-gsTests'
+
+    // testMinExpectedTests 0 
+    testPattern {
+        // exclude non test files
+        exclude 'com/zasadnyy/reddit/model/test/**'
+    }
+
+    translateArgs '--prefixes', 'src/main/resources/prefixes.properties'
+    translateArgs '--mapping', 'src/main/resources/mapping.properties'
+
+    finalConfigure()
+}
+
+j2objcPodspec.doLast {
+
+    println("""
+Modifying generated podspecs to be able to run pod install
+More details: https://github.com/j2objc-contrib/j2objc-gradle/issues/596
+""")
+
+    [getPodspecDebug(), getPodspecRelease()].asList().each {
+        File podspec = it
+        String text = podspec.text.replace(
+                "spec.resources = 'src/main/resources/**/*'",
+                "# spec.resources = 'src/main/resources/**/*'  <-- commented due to issue with podinstall")
+        podspec.write(text)
+    }
+}
+
+//j2objcTranslatedMainLibraryExtraction.enabled = false
+//j2objcTranslatedTestLibraryExtraction.enabled = false

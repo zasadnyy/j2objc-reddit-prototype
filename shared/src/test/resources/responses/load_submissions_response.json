@@ -1,0 +1,1064 @@
+{
+  "kind": "Listing",
+  "data": {
+    "modhash": "",
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "i.imgur.com",
+          "banned_by": null,
+          "media_embed": {},
+          "subreddit": "singularity",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "link_flair_text": null,
+          "id": "41puei",
+          "from_kind": null,
+          "gilded": 0,
+          "archived": false,
+          "clicked": false,
+          "report_reasons": null,
+          "author": "bigeyedbunny",
+          "media": null,
+          "score": 175,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/VClVjhRFkj-Q19El1_S2VjakusqqRSTLEZBqafPq70U.jpg?s=14abd8b2b86d38618a30ca0c2a460192",
+                  "width": 600,
+                  "height": 651
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/VClVjhRFkj-Q19El1_S2VjakusqqRSTLEZBqafPq70U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=3b8b237d62e634ff3145a5bd00bf829a",
+                    "width": 108,
+                    "height": 117
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/VClVjhRFkj-Q19El1_S2VjakusqqRSTLEZBqafPq70U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=f0554c3ad7ebdcec22b39753cb30fe58",
+                    "width": 216,
+                    "height": 234
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/VClVjhRFkj-Q19El1_S2VjakusqqRSTLEZBqafPq70U.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=947d0dbcb5e89a15ca5b550d5f23b9d4",
+                    "width": 320,
+                    "height": 347
+                  }
+                ],
+                "variants": {},
+                "id": "-NwpNrttefrIYV8Lh6dLMxMQ2jUQwGxqqAAN1sKvp0c"
+              }
+            ]
+          },
+          "num_comments": 97,
+          "thumbnail": "http://b.thumbs.redditmedia.com/nFzQCHtVqCa-p9CO3bEjj3V_Uc-rlbF8KhiaXEMfLiQ.jpg",
+          "subreddit_id": "t5_2qh8m",
+          "hide_score": false,
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "downs": 0,
+          "secure_media_embed": {},
+          "saved": false,
+          "removal_reason": null,
+          "post_hint": "image",
+          "stickied": false,
+          "from": null,
+          "is_self": false,
+          "from_id": null,
+          "permalink": "/r/singularity/comments/41puei/the_most_important_simple_thing_that_we_can_do/",
+          "locked": false,
+          "name": "t3_41puei",
+          "created": 1453255215.0,
+          "url": "http://i.imgur.com/NdUQ83G.jpg",
+          "author_flair_text": null,
+          "quarantine": false,
+          "title": "The most important simple thing that we can do everyday in order to end the misery of aging",
+          "created_utc": 1453226415.0,
+          "distinguished": null,
+          "mod_reports": [],
+          "visited": false,
+          "num_reports": null,
+          "ups": 175
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "youtube.com",
+          "banned_by": null,
+          "media_embed": {
+            "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FdvtHut9Zp8k%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdvtHut9Zp8k%26ab_channel%3DSingularityVideos&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdvtHut9Zp8k%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+            "width": 600,
+            "scrolling": false,
+            "height": 338
+          },
+          "subreddit": "singularity",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": {
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "description": "Uploaded by Singularity Videos on 2016-01-22.",
+              "title": "Neil deGrasse Tyson vs. Ray Kurzweil On The Singularity",
+              "url": "http://www.youtube.com/watch?v=dvtHut9Zp8k",
+              "type": "video",
+              "author_name": "Singularity Videos",
+              "height": 338,
+              "width": 600,
+              "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FdvtHut9Zp8k%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdvtHut9Zp8k%26ab_channel%3DSingularityVideos&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdvtHut9Zp8k%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "thumbnail_width": 480,
+              "version": "1.0",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdvtHut9Zp8k%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/channel/UCubwSalcfmvbaTxiKky9KCg"
+            },
+            "type": "youtube.com"
+          },
+          "link_flair_text": null,
+          "id": "4257qt",
+          "from_kind": null,
+          "gilded": 0,
+          "archived": false,
+          "clicked": false,
+          "report_reasons": null,
+          "author": "Sheodar36",
+          "media": {
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "description": "Uploaded by Singularity Videos on 2016-01-22.",
+              "title": "Neil deGrasse Tyson vs. Ray Kurzweil On The Singularity",
+              "url": "http://www.youtube.com/watch?v=dvtHut9Zp8k",
+              "type": "video",
+              "author_name": "Singularity Videos",
+              "height": 338,
+              "width": 600,
+              "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FdvtHut9Zp8k%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdvtHut9Zp8k%26ab_channel%3DSingularityVideos&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdvtHut9Zp8k%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "thumbnail_width": 480,
+              "version": "1.0",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/dvtHut9Zp8k/hqdefault.jpg",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/channel/UCubwSalcfmvbaTxiKky9KCg"
+            },
+            "type": "youtube.com"
+          },
+          "score": 158,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/86_OnMlOB_afYt3ZUZZMSw16t5BLXG2cWa2AJEZv_D0.jpg?s=ac3b734fd22854d20ccd3fe3289f7e47",
+                  "width": 480,
+                  "height": 360
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/86_OnMlOB_afYt3ZUZZMSw16t5BLXG2cWa2AJEZv_D0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=a03904b747957854eb2ac627626c4026",
+                    "width": 108,
+                    "height": 81
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/86_OnMlOB_afYt3ZUZZMSw16t5BLXG2cWa2AJEZv_D0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=10f572db431a203eeec44eac2c377180",
+                    "width": 216,
+                    "height": 162
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/86_OnMlOB_afYt3ZUZZMSw16t5BLXG2cWa2AJEZv_D0.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=39a821dfbebb9298ec02751abcbf1dbb",
+                    "width": 320,
+                    "height": 240
+                  }
+                ],
+                "variants": {},
+                "id": "Vgjin74ffZ3F7-u4TV9ZLs1cEJSSGuIsovgGh8ASDOQ"
+              }
+            ]
+          },
+          "num_comments": 67,
+          "thumbnail": "http://a.thumbs.redditmedia.com/YaJmgIiqyY_xYMfL5bTtQUgQNclxPggcENXqxFvz7K0.jpg",
+          "subreddit_id": "t5_2qh8m",
+          "hide_score": false,
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "downs": 0,
+          "secure_media_embed": {
+            "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FdvtHut9Zp8k%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdvtHut9Zp8k%26ab_channel%3DSingularityVideos&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FdvtHut9Zp8k%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+            "width": 600,
+            "scrolling": false,
+            "height": 338
+          },
+          "saved": false,
+          "removal_reason": null,
+          "post_hint": "rich:video",
+          "stickied": false,
+          "from": null,
+          "is_self": false,
+          "from_id": null,
+          "permalink": "/r/singularity/comments/4257qt/neil_degrasse_tyson_vs_ray_kurzweil_on_the/",
+          "locked": false,
+          "name": "t3_4257qt",
+          "created": 1453492603.0,
+          "url": "https://www.youtube.com/watch?v=dvtHut9Zp8k&amp;ab_channel=SingularityVideos",
+          "author_flair_text": null,
+          "quarantine": false,
+          "title": "Neil deGrasse Tyson vs. Ray Kurzweil On The Singularity",
+          "created_utc": 1453463803.0,
+          "distinguished": null,
+          "mod_reports": [],
+          "visited": false,
+          "num_reports": null,
+          "ups": 158
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "youtube.com",
+          "banned_by": null,
+          "media_embed": {
+            "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQ0-51IkWpFE%3Fstart%3D568%26feature%3Doembed%26start%3D568&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ0-51IkWpFE%26feature%3Dyoutu.be%26t%3D9m28s&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ0-51IkWpFE%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+            "width": 600,
+            "scrolling": false,
+            "height": 450
+          },
+          "subreddit": "singularity",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": {
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "description": "You might also like: https://www.youtube.com/watch?v=h11_rHz7vYc (Bowie interviewed on same day in same place by different person)",
+              "title": "David Bowie Interviewed by Jeremy Paxman in 2000",
+              "url": "http://www.youtube.com/watch?v=Q0-51IkWpFE",
+              "type": "video",
+              "author_name": "Clorpse",
+              "height": 450,
+              "width": 600,
+              "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQ0-51IkWpFE%3Fstart%3D568%26feature%3Doembed%26start%3D568&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ0-51IkWpFE%26feature%3Dyoutu.be%26t%3D9m28s&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ0-51IkWpFE%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "thumbnail_width": 480,
+              "version": "1.0",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ0-51IkWpFE%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/user/Clorpse"
+            },
+            "type": "youtube.com"
+          },
+          "link_flair_text": null,
+          "id": "40i4go",
+          "from_kind": null,
+          "gilded": 0,
+          "archived": false,
+          "clicked": false,
+          "report_reasons": null,
+          "author": "Chispy",
+          "media": {
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "description": "You might also like: https://www.youtube.com/watch?v=h11_rHz7vYc (Bowie interviewed on same day in same place by different person)",
+              "title": "David Bowie Interviewed by Jeremy Paxman in 2000",
+              "url": "http://www.youtube.com/watch?v=Q0-51IkWpFE",
+              "type": "video",
+              "author_name": "Clorpse",
+              "height": 450,
+              "width": 600,
+              "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQ0-51IkWpFE%3Fstart%3D568%26feature%3Doembed%26start%3D568&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ0-51IkWpFE%26feature%3Dyoutu.be%26t%3D9m28s&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ0-51IkWpFE%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "thumbnail_width": 480,
+              "version": "1.0",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/Q0-51IkWpFE/hqdefault.jpg",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/user/Clorpse"
+            },
+            "type": "youtube.com"
+          },
+          "score": 126,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/2OEGzOvMxVwl7O4dpuJvPah04_XEnxf6x4S_Da24LtU.jpg?s=0d0633d0bbbf2d847daa0ecbf7511074",
+                  "width": 480,
+                  "height": 360
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/2OEGzOvMxVwl7O4dpuJvPah04_XEnxf6x4S_Da24LtU.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=86d93cf5fe4a4d4a1263c7a35e776a48",
+                    "width": 108,
+                    "height": 81
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/2OEGzOvMxVwl7O4dpuJvPah04_XEnxf6x4S_Da24LtU.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=ec7174d9343b4c3bddaf6973b941de35",
+                    "width": 216,
+                    "height": 162
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/2OEGzOvMxVwl7O4dpuJvPah04_XEnxf6x4S_Da24LtU.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=3d388bc7dd2893ce74a3f59a31370f2c",
+                    "width": 320,
+                    "height": 240
+                  }
+                ],
+                "variants": {},
+                "id": "PMXQo2_ZN15R46E4-dRWQwyUaNTdO2D9pTVUrz2f55Q"
+              }
+            ]
+          },
+          "num_comments": 8,
+          "thumbnail": "http://a.thumbs.redditmedia.com/ZagXaJwhnSFMXFWM6TTWljUcYR-vzazQp4bHAMKr4V4.jpg",
+          "subreddit_id": "t5_2qh8m",
+          "hide_score": false,
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "downs": 0,
+          "secure_media_embed": {
+            "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQ0-51IkWpFE%3Fstart%3D568%26feature%3Doembed%26start%3D568&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ0-51IkWpFE%26feature%3Dyoutu.be%26t%3D9m28s&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ0-51IkWpFE%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"450\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+            "width": 600,
+            "scrolling": false,
+            "height": 450
+          },
+          "saved": false,
+          "removal_reason": null,
+          "post_hint": "rich:video",
+          "stickied": false,
+          "from": null,
+          "is_self": false,
+          "from_id": null,
+          "permalink": "/r/singularity/comments/40i4go/i_think_were_on_the_cusp_of_something/",
+          "locked": false,
+          "name": "t3_40i4go",
+          "created": 1452566093.0,
+          "url": "https://www.youtube.com/watch?v=Q0-51IkWpFE&amp;feature=youtu.be&amp;t=9m28s",
+          "author_flair_text": null,
+          "quarantine": false,
+          "title": "\"I think we're on the cusp of something exhilarating and terrifying.\" David Bowie and the Future of the Internet.",
+          "created_utc": 1452537293.0,
+          "distinguished": null,
+          "mod_reports": [],
+          "visited": false,
+          "num_reports": null,
+          "ups": 126
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "philosophyworkout.blogspot.de",
+          "banned_by": null,
+          "media_embed": {},
+          "subreddit": "singularity",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "link_flair_text": null,
+          "id": "412r9n",
+          "from_kind": null,
+          "gilded": 0,
+          "archived": false,
+          "clicked": false,
+          "report_reasons": null,
+          "author": "TheGreatNow",
+          "media": null,
+          "score": 119,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/Vesz9rr_g8ICy4BNkoZ1jrbNvIuy2G1nCLEQx-2I1FY.jpg?s=8a27843611258899892c49313b2d24d4",
+                  "width": 640,
+                  "height": 376
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/Vesz9rr_g8ICy4BNkoZ1jrbNvIuy2G1nCLEQx-2I1FY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=cb1694f9a27113b340d49872f84833fb",
+                    "width": 108,
+                    "height": 63
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/Vesz9rr_g8ICy4BNkoZ1jrbNvIuy2G1nCLEQx-2I1FY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=44a2ce9c5313e40470782842fea1dbed",
+                    "width": 216,
+                    "height": 126
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/Vesz9rr_g8ICy4BNkoZ1jrbNvIuy2G1nCLEQx-2I1FY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=56ab940a5724859bab0c5848614e1e1c",
+                    "width": 320,
+                    "height": 188
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/Vesz9rr_g8ICy4BNkoZ1jrbNvIuy2G1nCLEQx-2I1FY.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=7787b76c443b2c11d87bf9ede6943697",
+                    "width": 640,
+                    "height": 376
+                  }
+                ],
+                "variants": {},
+                "id": "LlZgjHrCXvoTDiCJFBERO-atkZvAVkc2CnZsh-93d_M"
+              }
+            ]
+          },
+          "num_comments": 52,
+          "thumbnail": "http://b.thumbs.redditmedia.com/nLhGYn-XMHUP_hpQdEdzfAZDng8nIg7HwLftA7RTqjc.jpg",
+          "subreddit_id": "t5_2qh8m",
+          "hide_score": false,
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "downs": 0,
+          "secure_media_embed": {},
+          "saved": false,
+          "removal_reason": null,
+          "post_hint": "link",
+          "stickied": false,
+          "from": null,
+          "is_self": false,
+          "from_id": null,
+          "permalink": "/r/singularity/comments/412r9n/as_kurzweil_predicted_moores_law_is_ending_the/",
+          "locked": false,
+          "name": "t3_412r9n",
+          "created": 1452886820.0,
+          "url": "http://philosophyworkout.blogspot.de/2016/01/a-decade-of-economic-stagnation-looms.html",
+          "author_flair_text": null,
+          "quarantine": false,
+          "title": "As Kurzweil predicted: Moore's Law is ending. The next computing paradigm is going to be established. But what happens in the meantime? Economic Stagnation? What do you think?",
+          "created_utc": 1452858020.0,
+          "distinguished": null,
+          "mod_reports": [],
+          "visited": false,
+          "num_reports": null,
+          "ups": 119
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "wired.com",
+          "banned_by": null,
+          "media_embed": {},
+          "subreddit": "singularity",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "link_flair_text": null,
+          "id": "430cdw",
+          "from_kind": null,
+          "gilded": 0,
+          "archived": false,
+          "clicked": false,
+          "report_reasons": null,
+          "author": "Yosarian2",
+          "media": null,
+          "score": 122,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/ru1y9RSHAfGYLjPGA80mJHJAqybAXpXq9GFQmOhxo0s.jpg?s=33367baaaba28a5bf9c8214625ac4334",
+                  "width": 1200,
+                  "height": 630
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/ru1y9RSHAfGYLjPGA80mJHJAqybAXpXq9GFQmOhxo0s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=7a97d23d9b5f36819c95a94e13d1f795",
+                    "width": 108,
+                    "height": 56
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/ru1y9RSHAfGYLjPGA80mJHJAqybAXpXq9GFQmOhxo0s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=ecda4e5985e4125f0e3ae33ddf098a01",
+                    "width": 216,
+                    "height": 113
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/ru1y9RSHAfGYLjPGA80mJHJAqybAXpXq9GFQmOhxo0s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=7fad6844cd616a8939757a3b867a4f94",
+                    "width": 320,
+                    "height": 168
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/ru1y9RSHAfGYLjPGA80mJHJAqybAXpXq9GFQmOhxo0s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=74aaf583d41e5d69f7f7629ee480d2a5",
+                    "width": 640,
+                    "height": 336
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/ru1y9RSHAfGYLjPGA80mJHJAqybAXpXq9GFQmOhxo0s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960&amp;s=3a51715e9a968765c833d68d4882e4c5",
+                    "width": 960,
+                    "height": 504
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/ru1y9RSHAfGYLjPGA80mJHJAqybAXpXq9GFQmOhxo0s.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=1080&amp;s=50ce71f8f478f2522aadef02b5463a23",
+                    "width": 1080,
+                    "height": 567
+                  }
+                ],
+                "variants": {},
+                "id": "9MYuqZ3wZjn3UaFk-eibxsX45rHEP2lTpgACdddJ-Gs"
+              }
+            ]
+          },
+          "num_comments": 48,
+          "thumbnail": "http://b.thumbs.redditmedia.com/9JHTNpUWiWwNGFGQrKP6qEzMlg9e0jZaCFwZoK7m_1A.jpg",
+          "subreddit_id": "t5_2qh8m",
+          "hide_score": false,
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "downs": 0,
+          "secure_media_embed": {},
+          "saved": false,
+          "removal_reason": null,
+          "post_hint": "link",
+          "stickied": false,
+          "from": null,
+          "is_self": false,
+          "from_id": null,
+          "permalink": "/r/singularity/comments/430cdw/in_major_ai_breakthrough_google_system_secretly/",
+          "locked": false,
+          "name": "t3_430cdw",
+          "created": 1453965589.0,
+          "url": "http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/",
+          "author_flair_text": null,
+          "quarantine": false,
+          "title": "In Major AI Breakthrough, Google System Secretly Beats Top Player at the Ancient Game of Go",
+          "created_utc": 1453936789.0,
+          "distinguished": null,
+          "mod_reports": [],
+          "visited": false,
+          "num_reports": null,
+          "ups": 122
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "xkcd.com",
+          "banned_by": null,
+          "media_embed": {},
+          "subreddit": "singularity",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "link_flair_text": null,
+          "id": "3zu8b8",
+          "from_kind": null,
+          "gilded": 0,
+          "archived": false,
+          "clicked": false,
+          "report_reasons": null,
+          "author": "DrinkYourHaterade",
+          "media": null,
+          "score": 117,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/L133gNK-jeuqKgD9dMW6qiSXL1fAB2K8k2jf-x5t9OA.jpg?s=fd7e3ce3fb8f2145d8d68af85ea00fc5",
+                  "width": 502,
+                  "height": 420
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/L133gNK-jeuqKgD9dMW6qiSXL1fAB2K8k2jf-x5t9OA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=7733d7a2d2b490790381c14bcb9252d8",
+                    "width": 108,
+                    "height": 90
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/L133gNK-jeuqKgD9dMW6qiSXL1fAB2K8k2jf-x5t9OA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=1827872cab74d5ca893bcbc6a52d8a89",
+                    "width": 216,
+                    "height": 180
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/L133gNK-jeuqKgD9dMW6qiSXL1fAB2K8k2jf-x5t9OA.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=f9c70d3dc24da60278153d7199b04b2e",
+                    "width": 320,
+                    "height": 267
+                  }
+                ],
+                "variants": {},
+                "id": "HSqVYqaZL-yvLRuxvA3VNtcgnClW_eAw6UR1W42fJEk"
+              }
+            ]
+          },
+          "num_comments": 14,
+          "thumbnail": "http://b.thumbs.redditmedia.com/xW3PqlFZDW_x_BguR3cVfo5wwyeGPbUdgb-Ut34JmKU.jpg",
+          "subreddit_id": "t5_2qh8m",
+          "hide_score": false,
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "downs": 0,
+          "secure_media_embed": {},
+          "saved": false,
+          "removal_reason": null,
+          "post_hint": "link",
+          "stickied": false,
+          "from": null,
+          "is_self": false,
+          "from_id": null,
+          "permalink": "/r/singularity/comments/3zu8b8/when_the_computers_controlling_our_nuclear/",
+          "locked": false,
+          "name": "t3_3zu8b8",
+          "created": 1452176228.0,
+          "url": "http://xkcd.com/1626/",
+          "author_flair_text": null,
+          "quarantine": false,
+          "title": "When the computers controlling our nuclear arsenals became sentient (cross-post from r/xkcd)",
+          "created_utc": 1452147428.0,
+          "distinguished": null,
+          "mod_reports": [],
+          "visited": false,
+          "num_reports": null,
+          "ups": 117
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "io9.gizmodo.com",
+          "banned_by": null,
+          "media_embed": {},
+          "subreddit": "singularity",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "link_flair_text": null,
+          "id": "41wegb",
+          "from_kind": null,
+          "gilded": 0,
+          "archived": false,
+          "clicked": false,
+          "report_reasons": null,
+          "author": "Pimozv",
+          "media": null,
+          "score": 102,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/Dgp2g_IUI9jqEO6BJsn9cJJUkt6l2jPvajF-ctmphbw.jpg?s=4ce5c6bdf783bf2f0ce8eac56e8fcfb9",
+                  "width": 636,
+                  "height": 358
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/Dgp2g_IUI9jqEO6BJsn9cJJUkt6l2jPvajF-ctmphbw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=facfab500608e8bd72b415a685f8a16b",
+                    "width": 108,
+                    "height": 60
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/Dgp2g_IUI9jqEO6BJsn9cJJUkt6l2jPvajF-ctmphbw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=d9843e5011e77bce2fbbafb9ff2bd258",
+                    "width": 216,
+                    "height": 121
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/Dgp2g_IUI9jqEO6BJsn9cJJUkt6l2jPvajF-ctmphbw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=fe99a587bcaa5657c83a24c1134cf6ad",
+                    "width": 320,
+                    "height": 180
+                  }
+                ],
+                "variants": {},
+                "id": "xr8-TkMePGb5LbPZvda4Q-76Rl1vkagQrRl702ZMGzM"
+              }
+            ]
+          },
+          "num_comments": 6,
+          "thumbnail": "http://b.thumbs.redditmedia.com/p4eAfdE2Y-tW76t-fHtTAPlRysoW4MaCti_Cy_EZ3CA.jpg",
+          "subreddit_id": "t5_2qh8m",
+          "hide_score": false,
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "downs": 0,
+          "secure_media_embed": {},
+          "saved": false,
+          "removal_reason": null,
+          "post_hint": "link",
+          "stickied": false,
+          "from": null,
+          "is_self": false,
+          "from_id": null,
+          "permalink": "/r/singularity/comments/41wegb/the_legendary_filmmaker_werner_herzog_has_made_a/",
+          "locked": false,
+          "name": "t3_41wegb",
+          "created": 1453353157.0,
+          "url": "http://io9.gizmodo.com/the-legendary-filmmaker-werner-herzog-has-made-a-docume-1754040226",
+          "author_flair_text": null,
+          "quarantine": false,
+          "title": "The Legendary Filmmaker Werner Herzog Has Made A Documentary about Robotics and A.I.",
+          "created_utc": 1453324357.0,
+          "distinguished": null,
+          "mod_reports": [],
+          "visited": false,
+          "num_reports": null,
+          "ups": 102
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "newscientist.com",
+          "banned_by": null,
+          "media_embed": {},
+          "subreddit": "singularity",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "link_flair_text": null,
+          "id": "402kau",
+          "from_kind": null,
+          "gilded": 0,
+          "archived": false,
+          "clicked": false,
+          "report_reasons": null,
+          "author": "thescinder",
+          "media": null,
+          "score": 98,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/ccpCOqNpd4P3OoNSKbG49tByF7Y_LlAIBRxOun2gcGM.jpg?s=6d37ed9d6ff49adf1d1067fb6dcb4533",
+                  "width": 800,
+                  "height": 613
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/ccpCOqNpd4P3OoNSKbG49tByF7Y_LlAIBRxOun2gcGM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=62ca0d2f0829978d0432dfa40a673129",
+                    "width": 108,
+                    "height": 82
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/ccpCOqNpd4P3OoNSKbG49tByF7Y_LlAIBRxOun2gcGM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=0b40a1b7b9538b99a138bfdca8ff9778",
+                    "width": 216,
+                    "height": 165
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/ccpCOqNpd4P3OoNSKbG49tByF7Y_LlAIBRxOun2gcGM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=628d5caaea3116a44ae6aecba90c7583",
+                    "width": 320,
+                    "height": 245
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/ccpCOqNpd4P3OoNSKbG49tByF7Y_LlAIBRxOun2gcGM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=2423d63e1c5349106fae4e35b5012f36",
+                    "width": 640,
+                    "height": 490
+                  }
+                ],
+                "variants": {},
+                "id": "l0NikJRtkbK_xtpWnd6TRLjLiYTTdc-aHMsqV3lavjM"
+              }
+            ]
+          },
+          "num_comments": 25,
+          "thumbnail": "http://b.thumbs.redditmedia.com/MzK6NsU6GMmFEN6BGdwXf5MU9b4kjqp_KrN2bw8cWBY.jpg",
+          "subreddit_id": "t5_2qh8m",
+          "hide_score": false,
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "downs": 0,
+          "secure_media_embed": {},
+          "saved": false,
+          "removal_reason": null,
+          "post_hint": "link",
+          "stickied": false,
+          "from": null,
+          "is_self": false,
+          "from_id": null,
+          "permalink": "/r/singularity/comments/402kau/first_digital_animal_will_be_perfect_copy_of_real/",
+          "locked": false,
+          "name": "t3_402kau",
+          "created": 1452309341.0,
+          "url": "https://www.newscientist.com/article/mg22429972.300-first-digital-animal-will-be-perfect-copy-of-real-worm/",
+          "author_flair_text": null,
+          "quarantine": false,
+          "title": "First digital animal will be perfect copy of real worm",
+          "created_utc": 1452280541.0,
+          "distinguished": null,
+          "mod_reports": [],
+          "visited": false,
+          "num_reports": null,
+          "ups": 98
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "youtube.com",
+          "banned_by": null,
+          "media_embed": {
+            "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLuECoz9_QThR2YnLKQxLjH3MnyO8xEPot&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeLyZIDlOaLs%26index%3D17%26list%3DPLuECoz9_QThR2YnLKQxLjH3MnyO8xEPot&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeLyZIDlOaLs%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+            "width": 600,
+            "scrolling": false,
+            "height": 338
+          },
+          "subreddit": "singularity",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": {
+            "type": "youtube.com",
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "description": "http://www.vpro.nl/devolmaaktemens\u200b Swedish philosopher Nick Bostrom is interviewed by Dutch journalist and philosopher Bas Heijne. Bostrom (Helsingborg, 1973) is a professor at the University of Oxford and founder and director of the Future of Humanity Institute. He is known as a transhumanist and researches, together with scientists of all kinds of disciplines, the fundamental chances and threats for the future of humanity.",
+              "title": "The Perfect Human Being series - Nick Bostrom on superintelligence",
+              "url": "http://www.youtube.com/watch?v=eLyZIDlOaLs",
+              "author_name": "vpro international",
+              "height": 338,
+              "width": 600,
+              "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLuECoz9_QThR2YnLKQxLjH3MnyO8xEPot&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeLyZIDlOaLs%26index%3D17%26list%3DPLuECoz9_QThR2YnLKQxLjH3MnyO8xEPot&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeLyZIDlOaLs%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "thumbnail_width": 480,
+              "version": "1.0",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.embed.ly/1/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeLyZIDlOaLs%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+              "type": "video",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/user/VPROinternational"
+            }
+          },
+          "link_flair_text": null,
+          "id": "3zt18a",
+          "from_kind": null,
+          "gilded": 0,
+          "archived": false,
+          "clicked": false,
+          "report_reasons": null,
+          "author": "Chispy",
+          "media": {
+            "type": "youtube.com",
+            "oembed": {
+              "provider_url": "https://www.youtube.com/",
+              "description": "http://www.vpro.nl/devolmaaktemens\u200b Swedish philosopher Nick Bostrom is interviewed by Dutch journalist and philosopher Bas Heijne. Bostrom (Helsingborg, 1973) is a professor at the University of Oxford and founder and director of the Future of Humanity Institute. He is known as a transhumanist and researches, together with scientists of all kinds of disciplines, the fundamental chances and threats for the future of humanity.",
+              "title": "The Perfect Human Being series - Nick Bostrom on superintelligence",
+              "url": "http://www.youtube.com/watch?v=eLyZIDlOaLs",
+              "author_name": "vpro international",
+              "height": 338,
+              "width": 600,
+              "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLuECoz9_QThR2YnLKQxLjH3MnyO8xEPot&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeLyZIDlOaLs%26index%3D17%26list%3DPLuECoz9_QThR2YnLKQxLjH3MnyO8xEPot&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeLyZIDlOaLs%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "thumbnail_width": 480,
+              "version": "1.0",
+              "provider_name": "YouTube",
+              "thumbnail_url": "https://i.ytimg.com/vi/eLyZIDlOaLs/hqdefault.jpg",
+              "type": "video",
+              "thumbnail_height": 360,
+              "author_url": "https://www.youtube.com/user/VPROinternational"
+            }
+          },
+          "score": 91,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/cs83k8Z-wI_XT4yHAv8ecpSif4d5PXGZWNI-ei3LOrQ.jpg?s=c8d8a90da09a2b2849836c6f516be93f",
+                  "width": 480,
+                  "height": 360
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/cs83k8Z-wI_XT4yHAv8ecpSif4d5PXGZWNI-ei3LOrQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=33b8acb3ea7fefcd3d8e3eb1287f4c78",
+                    "width": 108,
+                    "height": 81
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/cs83k8Z-wI_XT4yHAv8ecpSif4d5PXGZWNI-ei3LOrQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=337e8ad9555a40d6bf72650e9cfa9354",
+                    "width": 216,
+                    "height": 162
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/cs83k8Z-wI_XT4yHAv8ecpSif4d5PXGZWNI-ei3LOrQ.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=6927359be644fcbe28707573356a4a34",
+                    "width": 320,
+                    "height": 240
+                  }
+                ],
+                "variants": {},
+                "id": "KX-3SMtYVYTsGZWn8d1tY3ME8MlEAKVfh2w9WtDaErI"
+              }
+            ]
+          },
+          "num_comments": 19,
+          "thumbnail": "http://b.thumbs.redditmedia.com/yWslfBFO4ePdd7e9iz8n5cul0ND8nlLHRwpdnPpgBBc.jpg",
+          "subreddit_id": "t5_2qh8m",
+          "hide_score": false,
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "downs": 0,
+          "secure_media_embed": {
+            "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLuECoz9_QThR2YnLKQxLjH3MnyO8xEPot&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeLyZIDlOaLs%26index%3D17%26list%3DPLuECoz9_QThR2YnLKQxLjH3MnyO8xEPot&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeLyZIDlOaLs%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+            "width": 600,
+            "scrolling": false,
+            "height": 338
+          },
+          "saved": false,
+          "removal_reason": null,
+          "post_hint": "rich:video",
+          "stickied": false,
+          "from": null,
+          "is_self": false,
+          "from_id": null,
+          "permalink": "/r/singularity/comments/3zt18a/i_feel_like_sometimes_we_are_ants_maybe_were/",
+          "locked": false,
+          "name": "t3_3zt18a",
+          "created": 1452158517.0,
+          "url": "https://www.youtube.com/watch?v=eLyZIDlOaLs&amp;index=17&amp;list=PLuECoz9_QThR2YnLKQxLjH3MnyO8xEPot",
+          "author_flair_text": null,
+          "quarantine": false,
+          "title": "\"I feel like, sometimes, we are ants. Maybe we're contributing to some great project of building The Anthill.\" Nick Bostrom on superintelligence - The Perfect Human Being series",
+          "created_utc": 1452129717.0,
+          "distinguished": null,
+          "mod_reports": [],
+          "visited": false,
+          "num_reports": null,
+          "ups": 91
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "domain": "vox.com",
+          "banned_by": null,
+          "media_embed": {},
+          "subreddit": "singularity",
+          "selftext_html": null,
+          "selftext": "",
+          "likes": null,
+          "suggested_sort": null,
+          "user_reports": [],
+          "secure_media": null,
+          "link_flair_text": null,
+          "id": "43jhre",
+          "from_kind": null,
+          "gilded": 0,
+          "archived": false,
+          "clicked": false,
+          "report_reasons": null,
+          "author": "eleitl",
+          "media": null,
+          "score": 89,
+          "approved_by": null,
+          "over_18": false,
+          "hidden": false,
+          "preview": {
+            "images": [
+              {
+                "source": {
+                  "url": "https://i.redditmedia.com/aGz5FnCcvCQZf9B7z7kec6DE16l7nBJ3PoOEWco91iE.jpg?s=7f7afacde3871c7894d57a48dd7dd82e",
+                  "width": 867,
+                  "height": 384
+                },
+                "resolutions": [
+                  {
+                    "url": "https://i.redditmedia.com/aGz5FnCcvCQZf9B7z7kec6DE16l7nBJ3PoOEWco91iE.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108&amp;s=7428cde8cdeaa2cd39afdeb69b6c876e",
+                    "width": 108,
+                    "height": 47
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/aGz5FnCcvCQZf9B7z7kec6DE16l7nBJ3PoOEWco91iE.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216&amp;s=27aa66f72b939747fba0fc64fbd3a65d",
+                    "width": 216,
+                    "height": 95
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/aGz5FnCcvCQZf9B7z7kec6DE16l7nBJ3PoOEWco91iE.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320&amp;s=83a9c85c0c80cfcf12c1ac14b054b801",
+                    "width": 320,
+                    "height": 141
+                  },
+                  {
+                    "url": "https://i.redditmedia.com/aGz5FnCcvCQZf9B7z7kec6DE16l7nBJ3PoOEWco91iE.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640&amp;s=2f8422356f1c5fd4522ed4c9b10c07d6",
+                    "width": 640,
+                    "height": 283
+                  }
+                ],
+                "variants": {},
+                "id": "sFNxD9V53arFtwhL2hYwxEMNRvM0wyjd0ib-UiDdf7E"
+              }
+            ]
+          },
+          "num_comments": 9,
+          "thumbnail": "http://b.thumbs.redditmedia.com/iO1mYPvg-rvPvDI8qiEqr81kHnRQvUH8W9lC5QIGqxE.jpg",
+          "subreddit_id": "t5_2qh8m",
+          "hide_score": false,
+          "edited": false,
+          "link_flair_css_class": null,
+          "author_flair_css_class": null,
+          "downs": 0,
+          "secure_media_embed": {},
+          "saved": false,
+          "removal_reason": null,
+          "post_hint": "link",
+          "stickied": false,
+          "from": null,
+          "is_self": false,
+          "from_id": null,
+          "permalink": "/r/singularity/comments/43jhre/how_the_world_went_from_170_million_people_to_73/",
+          "locked": false,
+          "name": "t3_43jhre",
+          "created": 1454283756.0,
+          "url": "http://www.vox.com/2016/1/30/10872878/world-population-map",
+          "author_flair_text": null,
+          "quarantine": false,
+          "title": "How the world went from 170 million people to 7.3 billion, in one map",
+          "created_utc": 1454254956.0,
+          "distinguished": null,
+          "mod_reports": [],
+          "visited": false,
+          "num_reports": null,
+          "ups": 89
+        }
+      }
+    ],
+    "after": "t3_43jhre",
+    "before": null
+  }
+}
