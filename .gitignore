@@ -1,0 +1,12 @@
+*.iml
+.gradle
+.idea
+android-client/build
+android-library/build
+ios/Pods
+shared/build
+build
+local.properties
+gradlew
+gradlew.bat
+gradle

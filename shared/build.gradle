@@ -65,5 +65,6 @@ More details: https://github.com/j2objc-contrib/j2objc-gradle/issues/596
     }
 }
 
+// Uncomment this lines to speedup build
 //j2objcTranslatedMainLibraryExtraction.enabled = false
 //j2objcTranslatedTestLibraryExtraction.enabled = false
