@@ -1,6 +1,6 @@
 # J2ObjC Reddit Prototype
 
-This prototype was built in the scope of the internal RnD project at [GetSocial](https://www.getsocial.im/), when we were looking for a way to share business logic among Android/iOS/Unity/Web.
+I've built this prototype in the scope of the internal RnD project at [GetSocial](https://www.getsocial.im/), when we were looking for a way to share business logic among Android/iOS/Unity/Web SDKs.
 
 #### From this project you can learn
 - `j2objc-gradle` plugin configuration and usage
