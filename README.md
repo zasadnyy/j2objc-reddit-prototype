@@ -21,30 +21,28 @@ I've built this prototype in the scope of the internal RnD project at [GetSocial
 
 ### How to build
 
- 0) `cd` to project root folder
- 
- 1) Create `local.properties` with J2ObjC and Android SDK location, so it looks like
+1. `cd` to project root folder
+1. Create `local.properties` with J2ObjC and Android SDK location, so it looks like
 
-```
-sdk.dir=~/Library/Android/sdk
-j2objc.home=~/j2objcDist/j2objc-0.9.8.2.1
-```
+    ```
+    sdk.dir=~/Library/Android/sdk
+    j2objc.home=~/j2objcDist/j2objc-0.9.8.2.1
+    ```
 
- 3) Configure Gradle wrapper by executing
+1. Configure Gradle wrapper by executing
  
-```
->gradle wrapper
-```
+    ```
+    >gradle wrapper
+    ```
 
- 4) Build and cross compile `shared` module
+1. Build and cross compile `shared` module
  
-```
->./gradlew shared:build
-```
+    ```
+    >./gradlew shared:build
+    ```
 
- 5) Import root folder as a Gradle project into Android Studio to run Android demo
- 
- 6) Open generated Xcode workspace from `ios/` folder to run iOS demo **(workspace not project!)**
+1. Import root folder as a Gradle project into Android Studio to run Android demo
+1. Open generated Xcode workspace from `ios/` folder to run iOS demo **(workspace not project!)**
 
 
 ### Useful References
